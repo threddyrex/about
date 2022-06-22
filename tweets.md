@@ -1,6 +1,7 @@
 
 ## 2022
 
+* 6/22/2022 - ic principles document - [twitter](https://twitter.com/ThreddyRex/status/1539425702042169348)
 * 5/18/2022 - about my team at Microsoft - [twitter](https://twitter.com/threddyrex/status/1526648376334249985)
 * 1/3/2022 - the comic gets a new character! - [twitter](https://twitter.com/threddyrex/status/1478123383095054336?s=20)
 
