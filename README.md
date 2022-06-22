@@ -13,6 +13,10 @@ And you can find more info about the project on the following pages:
 * **[comics](comics.md)** - I created a comic starring Threddy and his raccoon friend Freddy.
 * **[tweets](tweets.md)** - a list of Threddy tweets. Some describe the history of Threddy, others are just ones I like.
 
+Also see my docs:
+
+* **[IC Principles](https://github.com/threddyrex/docs/blob/main/ic-principles.md)** - a document describing principles I follow in my career
+
 Thanks for stopping by. 😊
 
 -- Threddy
