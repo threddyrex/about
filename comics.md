@@ -1,6 +1,7 @@
 
 ## 2022
 
+* 6/27/2022 - take the day off - [twitter](https://twitter.com/ThreddyRex/status/1541469961280819200)
 * 5/6/2022 - new blepster ui - [twitter](https://twitter.com/threddyrex/status/1522612422359404545)
 * 4/13/2022 - dashboard - [twitter](https://twitter.com/threddyrex/status/1514393326065053697?s=20)
 * 4/1/2022 - don't trust the internet - [twitter](https://twitter.com/threddyrex/status/1509913486955986944)
