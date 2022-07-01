@@ -1,6 +1,7 @@
 
 ## 2022
 
+* 7/1/2022 - new fiscal work anniversary - [twitter](https://twitter.com/ThreddyRex/status/1542931453981257728)
 * 6/30/2022 - production-grade container orchestration - [twitter](https://twitter.com/ThreddyRex/status/1542630931575361536)
 * 6/27/2022 - take the day off - [twitter](https://twitter.com/ThreddyRex/status/1541469961280819200)
 * 5/6/2022 - new blepster ui - [twitter](https://twitter.com/threddyrex/status/1522612422359404545)
