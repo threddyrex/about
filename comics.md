@@ -1,6 +1,7 @@
 
 ## 2022
 
+* 7/11/2022 - vacation mode - [twitter](https://twitter.com/ThreddyRex/status/1546589280704704514)
 * 7/1/2022 - new fiscal work anniversary - [twitter](https://twitter.com/ThreddyRex/status/1542931453981257728)
 * 6/30/2022 - production-grade container orchestration - [twitter](https://twitter.com/ThreddyRex/status/1542630931575361536)
 * 6/27/2022 - take the day off - [twitter](https://twitter.com/ThreddyRex/status/1541469961280819200)
