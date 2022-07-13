@@ -1,6 +1,7 @@
 
 ## 2022
 
+* 7/13/2022 - diverse product teams - [twitter](https://twitter.com/ThreddyRex/status/1547328201868787712)
 * 7/11/2022 - vacation mode - [twitter](https://twitter.com/ThreddyRex/status/1546589280704704514)
 * 7/1/2022 - new fiscal work anniversary - [twitter](https://twitter.com/ThreddyRex/status/1542931453981257728)
 * 6/30/2022 - production-grade container orchestration - [twitter](https://twitter.com/ThreddyRex/status/1542630931575361536)
