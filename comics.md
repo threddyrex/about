@@ -1,6 +1,7 @@
 
 ## 2022
 
+* 7/19/2022 - long weekend off - [twitter](https://twitter.com/ThreddyRex/status/1549464791210553345)
 * 7/13/2022 - diverse product teams - [twitter](https://twitter.com/ThreddyRex/status/1547328201868787712)
 * 7/11/2022 - vacation mode - [twitter](https://twitter.com/ThreddyRex/status/1546589280704704514)
 * 7/1/2022 - new fiscal work anniversary - [twitter](https://twitter.com/ThreddyRex/status/1542931453981257728)
