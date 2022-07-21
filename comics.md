@@ -1,6 +1,7 @@
 
 ## 2022
 
+* 7/21/2022 - blepster outage - [twitter](https://twitter.com/ThreddyRex/status/1550230473778950144)
 * 7/20/2022 - where's campus - [twitter](https://twitter.com/ThreddyRex/status/1549920181597528066)
 * 7/19/2022 - long weekend off - [twitter](https://twitter.com/ThreddyRex/status/1549464791210553345)
 * 7/13/2022 - diverse product teams - [twitter](https://twitter.com/ThreddyRex/status/1547328201868787712)
