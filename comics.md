@@ -1,6 +1,7 @@
 
 ## 2022
 
+* 7/23/2022 - halloween - [twitter](https://twitter.com/ThreddyRex/status/1550940438940434432)
 * 7/22/2022 - 200th day - [twitter](https://twitter.com/ThreddyRex/status/1550548731140812802)
 * 7/21/2022 - blepster outage - [twitter](https://twitter.com/ThreddyRex/status/1550230473778950144)
 * 7/20/2022 - where's campus - [twitter](https://twitter.com/ThreddyRex/status/1549920181597528066)
