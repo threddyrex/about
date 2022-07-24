@@ -1,6 +1,7 @@
 
 ## 2022
 
+* 7/24/2022 - being in the moment - [twitter](https://twitter.com/ThreddyRex/status/1551338146352115712)
 * 7/23/2022 - halloween - [twitter](https://twitter.com/ThreddyRex/status/1550940438940434432)
 * 7/22/2022 - 200th day - [twitter](https://twitter.com/ThreddyRex/status/1550548731140812802)
 * 7/21/2022 - blepster outage - [twitter](https://twitter.com/ThreddyRex/status/1550230473778950144)
